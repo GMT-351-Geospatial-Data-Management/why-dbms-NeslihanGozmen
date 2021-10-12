@@ -1,0 +1,12 @@
+Why we need a Database Management System instead of a spreadsheet? Advantages and disadvantages of DBMS compared to a spreadsheet
+
+1.Databases provide a flexibility to sort and present data in a myriad of ways that would be nearly impossible to do with two-dimensional spreadsheets. Many databases also provide means to automate query and report generation using stored procedures.
+2.In a database, the regulatory standards would be updated in one table and would be available for any reporting queries of the associated data. In addition, a database can update records in bulk.
+3.When a spreadsheet has many fields or a large amount of data (1000s of rows), the spreadsheet can be hard to read. Finding specific data can be cumbersome. Relational databases use querying tools to overcome these issues.
+4.Spreadsheets are great for numeric and text values in relatively low volume. Databases also expertly handle numeric and text values but can easily incorporate other types of information.
+
+ 
+Why we need a database management system ? Let me summarize:
+A database ensures that data is stored in a specific field. With this system, which is especially used in government institutions, many data can be easily stored. Many organizations use this system, which has been adapted to a certain order.
+Thanks to the database, the information of millions of people can be reached in a short time. With this system, it has become possible for the services provided in civil registration offices, school records, banks and many similar institutions to be more practical.
+The database system, which is a very important issue for a software developer or web programmer, has an improvable structure. In this way, any project can progress to advanced stages much more easily.
